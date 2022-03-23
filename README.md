@@ -1,1 +1,1 @@
-### Desligando o PC usando Python
+# Exercícios de Python do Curso em Vídeo
